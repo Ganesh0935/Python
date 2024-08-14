@@ -1,0 +1,2 @@
+# What's Here ?
+ Here are the some sample programs of python (basics of python) that were practiced in VS code
